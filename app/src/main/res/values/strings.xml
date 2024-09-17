@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ImmoManager.237</string>
+
+    //Headings
+    <string name="heading_one"> Texte du bienvenu  &amp; Easy Payments</string>
+    <string name="heading_two">Evolution Du Cameroun Notre Priorité</string>
+    <string name="heading_three">Evoluons ensemble</string>
+    <string name="heading_fourth">Evolutivité</string>
+
+    //Description
+    <string name="desc_one">"Chers promoteurs et agents immobiliers,
+En tant que ministre du Développement Urbain et de l'Habitat, je vous interpelle aujourd'hui pour évoquer l'importance de l'innovation dans le secteur de l'immobilier au Cameroun. Dans les années à venir, nous devons nous adapter à une société en constante évolution et répondre aux besoins croissants de nos populations</string>
+    <string name="desc_two">Les dernières tendances mondiales montrent que les villes intelligentes, durables et innovantes sont celles qui se développent le plus rapidement. </string>
+    <string name="desc_three">Je vous invite donc à vous pencher sur les solutions innovantes pour répondre aux défis urbains que nous connaissons : la densité urbaine, la mobilité, la durabilité, la sécurité, etc.</string>
+    <string name="desc_fourth">Il est également essentiel que nous privilégions la mixité des quartiers, en intégrant des espaces publics verts, des espaces de loisirs et des infrastructures pour les personnes handicapées</string>
+
+</resources>
